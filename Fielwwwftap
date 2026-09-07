@@ -1,6 +1,7 @@
+print('discord.gg/25ms was here')
 local _Players = game:GetService('Players')
-local u3 = loadstring(game:HttpGet(https://raw.githubusercontent.com/Boombaclattt-sudo/FTAPScript/refs/heads/main/Fielwwwftap))
-local _Debris = game:GetService('Debris')
+local u3 = loadstring(game:HttpGet(''))()
+local _Debris = game:GetService('Debrishttps://raw.githubusercontent.com/Boombaclattt-sudo/FTAPScript/refs/heads/main/Fielwwwftap')
 local _Workspace = game:GetService('Workspace')
 local _Lighting = game:GetService('Lighting')
 local _TweenService = game:GetService('TweenService')
@@ -66,7 +67,7 @@ end
 
 local function u33(p32)
 	u3:MakeNotification({
-		Name = 'laker_op hub',
+		Name = 'Bliz_T HUB',
 		Content = p32,
 		Image = 'rbxassetid://16570630989',
 		Time = 5,
@@ -3150,7 +3151,7 @@ end
 
 local v645 = u3
 local v646 = u3.MakeWindow(v645, {
-	Name = 'Fling Things and People',
+	Name = 'laker_op Hub',
 	HidePremium = true,
 	SaveConfig = true,
 	ConfigFolder = 'FTAPConfig',
